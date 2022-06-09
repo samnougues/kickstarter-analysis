@@ -12,11 +12,11 @@ The purpose of this analysis is to look at data about Kickstarter campaigns from
 
 ### Analysis of Outcomes Based on Launch Date
  
-From this data and consequent line graph, we can see that theater Kickstarters launched in May have a high success rate. We can also see that there are alot of Kickstarters started around that time.  The data also suggests that there is a lower amount of theater Kickstarters launched toward the end of the year.  The number of canceled Kickstarters for theater is almost constant through the year. https://github.com/samnougues/kickstarter-analysis/blob/f07c674e2a46a553cbda139b1498c8ad10b811d8/Kickstarter_Challenge.xlsx Kickstarter_Challenge.xlsx
+From this data and consequent line graph, we can see that theater Kickstarters launched in May have a high success rate. We can also see that there are alot of Kickstarters started around that time.  The data also suggests that there is a lower amount of theater Kickstarters launched toward the end of the year.  The number of canceled Kickstarters for theater is almost constant through the year. https://github.com/samnougues/kickstarter-analysis/blob/f07c674e2a46a553cbda139b1498c8ad10b811d8/Kickstarter_Challenge.xlsx https://github.com/samnougues/kickstarter-analysis/blob/be81d7b817ab5d56b871e760f0e66fa606982ad5/Theater_Outcomes_vs_Launch.png
 
 ### Analysis of Outcomes Based on Goals
 
-This data and line graph shows that the success rate of Play kickstarters are at the highest when the goal is below 1000 dollars.  Then there is a decline between 1000 and 29999. After that success rate increases again until the goals are around 35,000; then it plataeus until 40,000.  After that, there is a sharp decline; until it bounces back up again at 45,000 ![Theater_Outcomes_vs_Launch.png](path/to/Theater_Outcomes_vs_Launch.png) [Kickstarter_Challenge.xlsx](path/to/Kickstarter_Challenge.xlxs)
+This data and line graph shows that the success rate of Play kickstarters are at the highest when the goal is below 1000 dollars.  Then there is a decline between 1000 and 29999. After that success rate increases again until the goals are around 35,000; then it plataeus until 40,000.  After that, there is a sharp decline; until it bounces back up again at 45,000 https://github.com/samnougues/kickstarter-analysis/blob/f07c674e2a46a553cbda139b1498c8ad10b811d8/Kickstarter_Challenge.xlsx https://github.com/samnougues/kickstarter-analysis/blob/be81d7b817ab5d56b871e760f0e66fa606982ad5/Outcomes_vs_Goals.png
 
 ### Challenges and Difficulties Encountered
 
