@@ -12,7 +12,7 @@ The purpose of this analysis is to look at data about Kickstarter campaigns from
 
 ### Analysis of Outcomes Based on Launch Date
  
-From this data and consequent line graph, we can see that theater Kickstarters launched in May have a high success rate. We can also see that there are alot of Kickstarters started around that time.  The data also suggests that there is a lower amount of theater Kickstarters launched toward the end of the year.  The number of canceled Kickstarters for theater is almost constant through the year.![Outcomes_vs_Goals.png](path/to/Outcomes_vs_Goals.png) [Kickstarter_Challenge.xlsx](path/to/Kickstarter_Challenge.xlxs)
+From this data and consequent line graph, we can see that theater Kickstarters launched in May have a high success rate. We can also see that there are alot of Kickstarters started around that time.  The data also suggests that there is a lower amount of theater Kickstarters launched toward the end of the year.  The number of canceled Kickstarters for theater is almost constant through the year. https://github.com/samnougues/kickstarter-analysis/blob/f07c674e2a46a553cbda139b1498c8ad10b811d8/Kickstarter_Challenge.xlsx Kickstarter_Challenge.xlsx
 
 ### Analysis of Outcomes Based on Goals
 
